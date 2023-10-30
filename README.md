@@ -8,7 +8,8 @@
 _________________________________________________________________________________________________________________________________________
 <br/>
 
-Hi everyone! I am Gerald Palileo but you can call me Je. I am 20 years old, aspiring to be a full stack developer or data scientist or database administrator. 
+<br/>
+Hi everyone! I am Gerald Palileo but you can call me Je. I am 20 years old, aspiring to be a full stack developer/data scientist/database administrator someday. I am open to project collaboration opportunities so feel free to contact me with my contact details below! 
 
 <div>
   
