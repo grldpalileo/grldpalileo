@@ -46,7 +46,7 @@ ________________________________________________________________________________
   <br/>
    <br/>
 <a href="mailto:geraldrpalileo.pup@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/grpalileo018/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
@@ -57,6 +57,9 @@ ________________________________________________________________________________
 <a href="https://www.instagram.com/jeee.18/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
+<a href = "https://discordapp.com/users/jeee__">
+<img src="https://img.shields.io/badge/-Discord-7289da?logo=discord&logoColor=white&style=for-the-badge">
+</a>  
  <br/>
 </h2>
 
