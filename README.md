@@ -34,11 +34,11 @@ ________________________________________________________________________________
  
  👨‍💻 **Software Development Cadet** at [Google Developer Student Clubs - PUP](https://www.facebook.com/gdscpupmanila)
  
- 👨‍💻 **Devskolar** at [PUP The Programmers Guild](https://www.facebook.com/PUPTPG)
+ 👨‍💻 **Assistant Programming Head** at [PUP The Programmers Guild](https://www.facebook.com/PUPTPG)
 
- 👨‍💻 **Member** at [AWS Cloud Club - PUP Manila](https://www.facebook.com/AWSCloudClubPUPManila)
+ 👨‍💻 **Junior Backend Developer** at [AWS Cloud Club - PUP Manila](https://www.facebook.com/AWSCloudClubPUPManila)
 
- 👨‍💻 **Member** at [IBITS - Institute of Bachelors in Information Technology Studies](https://www.facebook.com/iBITS.Official) 
+ 👨‍💻 **Research Extenstion Committee** at [IBITS - Institute of Bachelors in Information Technology Studies](https://www.facebook.com/iBITS.Official) 
 _________________________________________________________________________________________________________________________________________
 
 <h2 align = "center">
