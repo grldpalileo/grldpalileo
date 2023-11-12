@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
  👨‍💻 **Junior Backend Developer** at [AWS Cloud Club - PUP Manila](https://www.facebook.com/AWSCloudClubPUPManila)
 
- 👨‍💻 **Research Extenstion Committee** at [IBITS - Institute of Bachelors in Information Technology Studies](https://www.facebook.com/iBITS.Official) 
+ 👨‍💻 **Research Extension Committee** at [IBITS - Institute of Bachelors in Information Technology Studies](https://www.facebook.com/iBITS.Official) 
 _________________________________________________________________________________________________________________________________________
 
 <h2 align = "center">
