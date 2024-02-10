@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,mysql,oracle" /><br>
     </h2>
 </div>
 
