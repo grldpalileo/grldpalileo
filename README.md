@@ -48,7 +48,7 @@ ________________________________________________________________________________
 <a href="mailto:geraldrpalileo.pup@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/grpalileo018/">
+<a href="https://www.linkedin.com/in/grldpalileo/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 <a href="https://www.facebook.com/jee0018/">
