@@ -9,7 +9,7 @@ ________________________________________________________________________________
 <br/>
 
 <br/>
-Hi everyone! I am Gerald Palileo but you can call me Je. I am 20 years old, aspiring to be a full stack developer/data scientist/database administrator someday. I am open to project collaboration opportunities so feel free to contact me with my contact details below! 
+Hi everyone! I am Gerald Palileo but you can call me Je. I am 21 years old, aspiring to be a full stack developer/data scientist/database administrator someday. I am open to project collaboration opportunities so feel free to contact me with my contact details below! 
 
 <div>
   
@@ -18,7 +18,7 @@ Hi everyone! I am Gerald Palileo but you can call me Je. I am 20 years old, aspi
 
       ✅ College of Computer and Information Sciences
       ✅ Bachelor of Science in Information Technology
-      ✅ Junior Student
+      ✅ Senior Student
             
 🏫 **Senior High School:** [Las Piñas National High School - Senior High School](https://www.facebook.com/LPNHSSHSMAIN)
 
@@ -39,6 +39,8 @@ ________________________________________________________________________________
  👨‍💻 **Junior Backend Developer** at [AWS Cloud Club - PUP Manila](https://www.facebook.com/AWSCloudClubPUPManila)
 
  👨‍💻 **Research Extension Committee** at [IBITS - Institute of Bachelors in Information Technology Studies](https://www.facebook.com/iBITS.Official) 
+
+ 👨‍💻 **Data Science Associate** at [PUP Manila Microsoft Student Community](https://www.facebook.com/profile.php?id=100089030690536)
 _________________________________________________________________________________________________________________________________________
 
 <h2 align = "center">
