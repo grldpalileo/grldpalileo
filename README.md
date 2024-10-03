@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
  👨‍💻 **Research Extension Committee** at [IBITS - Institute of Bachelors in Information Technology Studies](https://www.facebook.com/iBITS.Official) 
 
- 👨‍💻 **Data Science Associate** at [PUP Manila Microsoft Student Community](https://www.facebook.com/profile.php?id=100089030690536)
+ 👨‍💻 **Junior Data Scientist and IT Support Team Member** at [PUP Manila Microsoft Student Community](https://www.facebook.com/profile.php?id=100089030690536)
 _________________________________________________________________________________________________________________________________________
 
 <h2 align = "center">
