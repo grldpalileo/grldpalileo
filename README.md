@@ -18,7 +18,7 @@ Hi everyone! I am Gerald Palileo but you can call me Je. I am 23 years old, aspi
 
       ✅ College of Computer and Information Sciences
       ✅ Bachelor of Science in Information Technology
-      ✅ Senior Student
+      ✅ Graduate, Magna Cum Laude
             
 🏫 **Senior High School:** [Las Piñas National High School - Senior High School](https://www.facebook.com/LPNHSSHSMAIN)
 
